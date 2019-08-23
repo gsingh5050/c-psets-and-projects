@@ -1,0 +1,14 @@
+John|One
+Sally|Smith|7184445567|s@s.com|1st Ave|Cupertino|CA|12345|Cupertino|12345
+Mike|Jones|5164897444|m@j.com|1243|NY|2nd ave|Woodbury|NY|42334
+Tyrion|Lannister|5164487798|4@e.com|112|hillside blvd|none|new hyde park|ny|11045
+endofbook|
+
+Sally|Two
+Micheal|Jordan|5165047722|mj@j.com789|1b|34|Hawk Lane|ON|ON|N2K424
+Stephen|Curry|6468893521|s@c.com|445|Main St|Corentyne Berbice|GA|Corentyne Berbice|55485
+endofbook|
+
+Annie|Three
+John|Snow|7188877754|john@snow.com|123|3b|House Lane|The North|New York|11354
+endofbook|
